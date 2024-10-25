@@ -1,10 +1,9 @@
-Projet effectué dans le cadre de ma formation chez OpenClassrooms
+#### Projet effectué dans le cadre de ma formation chez OpenClassrooms
 # Analyse de Lancement à l'International pour "La poule qui chante"
 
 <p align="center">
-  <img src="" alt="La poule qui chante" width="300"/>
+  <img src="https://github.com/MurielleGK/Etude_de_marche/blob/main/data/logo.jpg?raw=true" alt="La poule qui chante" width="300"/>
 </p>
-
 
 
 ## Contexte du Projet
